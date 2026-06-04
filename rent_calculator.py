@@ -18,7 +18,7 @@ p=int (input("Enter the person living in room/flat = "))
 
 total_bill = e*c
 
-output = (f+r+total_bill)//p
+output = (f+r+total_bill)/p
 
 print("Each person will pay = ", output)
 
